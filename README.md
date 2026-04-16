@@ -1,3 +1,9 @@
+## VERY IMPORTANT
+Must download the data here:
+https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset?select=phishing_email.csv
+
+# Download "phishing_email.csv" and move to data/
+
 ## Pipeline
 
 # datapipeline.py
